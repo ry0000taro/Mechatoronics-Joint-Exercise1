@@ -1,1 +1,9 @@
 L=1;R=1;
+Kd=1;
+Kp=1;
+Ki=1;
+MgLgamma=1;
+Jall=1;
+Dall=1;
+Ke=1;
+Kt=1;
