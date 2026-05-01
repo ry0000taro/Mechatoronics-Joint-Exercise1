@@ -1,8 +1,8 @@
 L=0.000645;R=24.5;
 Kd=0;
-Kp=1;
+Kp=155;
 Ki=0;
-MgLgamma=1;
+MgLgamma=0.00013;
 Jall=0.0177;
 Dall=0.1;
 Ke=0.0336;
